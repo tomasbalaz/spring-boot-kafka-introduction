@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>sk.balaz</groupId>
-    <artifactId>spring-boot-kafka-reactive</artifactId>
+    <artifactId>spring-boot-kafka-introduction</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-kafka-reactive</name>
-    <description>spring-boot-kafka-reactive</description>
+    <name>spring-boot-kafka-introduction</name>
+    <description>spring-boot-kafka-introduction</description>
     <properties>
         <java.version>17</java.version>
     </properties>
